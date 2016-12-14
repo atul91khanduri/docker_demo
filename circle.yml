@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: rbx-2.2.6
+    version: 2.1.5
 dependencies:
   post:
     - bundle exec rake assets:precompile
